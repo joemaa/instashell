@@ -53,6 +53,13 @@ printf "\n"
 printf "\e[1;77m\e[45m  Instagram Brute Forcer v1.5.4 Author: thelinuxchoice (Github/IG)   \e[0m\n"
 printf "\n"
 }
+Username acount: _paratea
+Password list (Enter to defualt list): passwords.lst
+Threats (use < 20 Default 10):
+Username: _paratea
+Wordlist: psswords.lst (39330)
+
+
 
 function start() {
 banner
